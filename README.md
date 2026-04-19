@@ -6,3 +6,5 @@
 ##
 1.打开浏览器，输入GitHub进入主页
 2.键入”厉凯--first-project“找到该项目
+
+zhangle
